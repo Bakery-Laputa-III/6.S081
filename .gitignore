@@ -20,6 +20,9 @@ myapi.key
 xv6.out*
 .vagrant/
 submissions/
+
 .vscode
 .clangd
 compile_flags.txt
+temp
+ans/
