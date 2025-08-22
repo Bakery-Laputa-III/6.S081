@@ -38,10 +38,10 @@ void primes(int lp[]) {
         }
 
         left2right(lp, p, prime);
-        
+
         if (fork() == 0) {
             primes(p);
-        } 
+        }
     }
 }
 
